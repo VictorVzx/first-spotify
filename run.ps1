@@ -354,8 +354,8 @@ function Get-Link {
     )
 
     switch ($mirror) {
-        $true { return "https://first-store-official.github.io/first-store" + $endlink }
-        default { return "https://raw.githubusercontent.com/first-store-Official/first-store/main" + $endlink }
+        $true { return "https://raw.githubusercontent.com/VictorVzx/first-spotify/main" + $endlink }
+        default { return "https://raw.githubusercontent.com/VictorVzx/first-spotify/main" + $endlink }
     }
 }
 
@@ -2174,7 +2174,7 @@ if ($test_spa) {
     $zip = [System.IO.Compression.ZipFile]::Open($xpui_spa_patch, 'update')
     $entry = $zip.GetEntry('xpui.js')
     $reader = New-Object System.IO.StreamReader($entry.Open())
-    $patched_by_first-store = $reader.ReadToEnd()
+    $patched_by_firststore = $reader.ReadToEnd()
     $reader.Close()
 
 
@@ -2188,7 +2188,7 @@ if ($test_spa) {
         $spotify_binary = $spotifyExecutable
     }
 
-    If ($patched_by_first-store -match 'patched by first-store') {
+    If ($patched_by_firststore -match 'patched by first-store') {
         $zip.Dispose()    
 
         if ($test_bak_spa) {
@@ -2261,7 +2261,7 @@ if ($test_spa) {
     }
 
     # Forced exp
-    extract -counts 'one' -method 'zip' -name 'xpui.js' -helper 'ForcedExp' -add $webjson.others.byfirst-store.add
+    extract -counts 'one' -method 'zip' -name 'xpui.js' -helper 'ForcedExp' -add $webjson.others.byfirststore.add
 
     # Hiding Ad-like sections or turn off podcasts from the homepage
     if ($podcast_off -or $adsections_off -or $canvashome_off) {
