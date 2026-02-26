@@ -1,7 +1,7 @@
 [PSCustomObject]@{
     Welcome         = "
 ╔═══════════════════════════════╗
-║ Benvenuti a SpotX per Windows ║
+║ Benvenuti a first-store per Windows ║
 ╚═══════════════════════════════╝"
     Incorrect       = "Ops, un valore sbagliato,"
     Incorrect2      = "inserisci di nuovo "
@@ -23,7 +23,7 @@
     DelOrOver       = "Rimuovere la versione attuale {0} o sovrascriverla? Y [Rimuovi] / N [Sovrascrivi]"
     DelOld          = "Disinstallando vecchia versione di Spotify..."
     NewV            = "Trovata versione di Spotify non supportata"
-    NewV2           = "La tua versione {0} di Spotify non è stata testata. La versione stabile per SpotX è {1}"
+    NewV2           = "La tua versione {0} di Spotify non è stata testata. La versione stabile per first-store è {1}"
     NewV3           = "Continuare con {0} (possibili errori) ? [Y/N]"
     Recom           = "Installare l'ultima versione {0} ? [Y/N]"
     DelNew          = "Disinstallando una versione non testata di Spotify..."
@@ -39,8 +39,8 @@
     ModSpoti        = "Patching Spotify..."
     Error           = "Errore"
     FileLocBroken   = "La posizione dei file di Spotify è danneggiata, disinstallare il client di Spotify ed eseguire nuovamente lo script"
-    Spicetify       = "Spicetify rilevato, deve essere installato dopo SpotX, aprire le azioni consigliate nelle FAQ ? [Y/N]"
-    NoRestore       = "SpotX è già stato installato, xpui.bak non trovato. `nPer favore, disinstalla Spotify e riapri il file Install.bat"
+    Spicetify       = "Spicetify rilevato, deve essere installato dopo first-store, aprire le azioni consigliate nelle FAQ ? [Y/N]"
+    NoRestore       = "first-store è già stato installato, xpui.bak non trovato. `nPer favore, disinstalla Spotify e riapri il file Install.bat"
     InstallComplete = "installazione completata"
     HostInfo        = "Trovati URL non desiderati nel file hosts"
     HostBak         = "Backup di hosts.bak in corso..."

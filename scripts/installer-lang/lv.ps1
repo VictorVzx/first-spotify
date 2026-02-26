@@ -1,7 +1,7 @@
 [PSCustomObject]@{
     Welcome         = "
 ╔══════════════════════════════╗
-║ Welcome to SpotX for Windows ║
+║ Bem-vindo a first store para Windows ║
 ╚══════════════════════════════╝"
     Incorrect       = "Hmm. Nepareiza vērtība,"
     Incorrect2      = "lūdzu ievadiet to vēlreiz "
@@ -39,8 +39,8 @@
     ModSpoti        = "Modo Spotify..."
     Error           = "Kļūda"
     FileLocBroken   = "Spotify failu atrašanās vieta ir bojāta, atinstalējiet klientu un palaidiet skriptu vēlreiz"
-    Spicetify       = "Spicetify ir konstatēts, to ir jāinstalē pēc SpotX, atvērt piemērotākos darbībus BUJ lapā? [Y/N]"
-    NoRestore       = "SpotX ir jau instalēts, bet xpui.bak nebija atrasts. `nLūdzu izdzēs Spotify klientu un palaid Install.bat vēlreiz"
+    Spicetify       = "Spicetify ir konstatēts, to ir jāinstalē pēc first-store, atvērt piemērotākos darbībus BUJ lapā? [Y/N]"
+    NoRestore       = "first-store ir jau instalēts, bet xpui.bak nebija atrasts. `nLūdzu izdzēs Spotify klientu un palaid Install.bat vēlreiz"
     InstallComplete = "Instalācija pabeigta"
     HostInfo        = "hosts failā atrasti nevēlami URL"
     HostBak         = "Dublē hosts.bak ..."

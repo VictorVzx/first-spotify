@@ -1,7 +1,7 @@
 [PSCustomObject]@{
     Welcome         = "
 ╔══════════════════════════════════╗
-║ Willkommen bei SpotX für Windows ║
+║ Willkommen bei first-store für Windows ║
 ╚══════════════════════════════════╝"
     Incorrect       = "Hoppla, ein falscher Wert,"
     Incorrect2      = "bitte geben Sie einen neuen Wert ein in "
@@ -39,8 +39,8 @@
     ModSpoti        = "Patche Spotify..."
     Error           = "Fehler"
     FileLocBroken   = "Speicherort von Spotify ist fehlerhaft, deinstallieren Sie Spotify und führen Sie das Skript erneut aus"
-    Spicetify       = "Spicetify detected, it must be installed after SpotX, open recommended actions in FAQ ? [Y/N]"
-    NoRestore       = "SpotX wurde schon installiert, xpui.bak wurde aber nicht gefunden. `nBitte deinstallieren Sie Spotify und starten Sie Install.bat nochmal"
+    Spicetify       = "Spicetify detected, it must be installed after first-store, open recommended actions in FAQ ? [Y/N]"
+    NoRestore       = "first-store wurde schon installiert, xpui.bak wurde aber nicht gefunden. `nBitte deinstallieren Sie Spotify und starten Sie Install.bat nochmal"
     InstallComplete = "Installation fertiggestellt"
     HostInfo        = "Unerwünschte URLs, die in der hosts-Datei gefunden wurden"
     HostBak         = "Sichere hosts.bak..."

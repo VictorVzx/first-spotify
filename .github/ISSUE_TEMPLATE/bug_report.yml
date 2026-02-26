@@ -5,13 +5,13 @@ body:
 - type: checkboxes
   attributes:
       label: 🧐 Have you read the FAQ and viewed similar issues?
-      description: <strong>❗️❗️ Important:</strong> Please review the <a href="https://telegra.ph/SpotX-FAQ-09-19">FAQ</a> and check both open and closed <a href="https://github.com/SpotX-Official/SpotX/issues">issue</a>, as your concern may have already been addressed. However, please be aware that if it's discovered that requested actions weren't completed, the issue may be closed without explanation.
+      description: <strong>❗️❗️ Important:</strong> Please review the <a href="https://telegra.ph/first-store-FAQ-09-19">FAQ</a> and check both open and closed <a href="https://github.com/first-store-Official/first-store/issues">issue</a>, as your concern may have already been addressed. However, please be aware that if it's discovered that requested actions weren't completed, the issue may be closed without explanation.
       options:
         - label: I have read the FAQ
           required: true
         - label: I have checked older issues, open and closed
           required: true
-        - label: I did a clean install of first-spotify as <a href="https://telegra.ph/SpotX-FAQ-09-19#1.-Clean-installation">described in the FAQ</a>
+        - label: I did a clean install of first-spotify as <a href="https://telegra.ph/first-store-FAQ-09-19#1.-Clean-installation">described in the FAQ</a>
           required: true  
 - type: markdown
   attributes:

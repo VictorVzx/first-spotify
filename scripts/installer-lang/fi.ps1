@@ -1,7 +1,7 @@
 [PSCustomObject]@{
     Welcome         = "
 ╔═══════════════════════════════╗
-║ Tervetuloa SpotX:n Windowsiin ║
+║ Tervetuloa first-store:n Windowsiin ║
 ╚═══════════════════════════════╝"
     Incorrect       = "Hupsista, väärä arvo,"
     Incorrect2      = "Syötä uudelleen "
@@ -39,8 +39,8 @@
     ModSpoti        = "Paikataan Spotifyn tiedostoja..."
     Error           = "Virhe"
     FileLocBroken   = "Spotify-tiedostojen sijainti on rikki, asenna spotify uudelleen ja suorita komentosarja uudelleen"
-    Spicetify       = "Spicetify detected, it must be installed after SpotX, open recommended actions in FAQ ? [Y/N]"
-    NoRestore       = "SpotX on jo asennettu, xpui.bak tiedostoa ei löynyt. `nAsenna spotify uudelleen ja suorita Install.bat tiedosto uudelleen"
+    Spicetify       = "Spicetify detected, it must be installed after first-store, open recommended actions in FAQ ? [Y/N]"
+    NoRestore       = "first-store on jo asennettu, xpui.bak tiedostoa ei löynyt. `nAsenna spotify uudelleen ja suorita Install.bat tiedosto uudelleen"
     InstallComplete = "asennus suoritettu"
     HostInfo        = "Hosts-tiedostosta löytyi ei-toivottuja URL-osoitteita"
     HostBak         = "Varmuuskopioidaan hosts.bak..."

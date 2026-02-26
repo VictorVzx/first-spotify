@@ -1,7 +1,7 @@
 [PSCustomObject]@{
     Welcome         = "
 ╔══════════════════════════════╗
-║ Welcome to SpotX for Windows ║
+║ Bem-vindo a first store para Windows ║
 ╚══════════════════════════════╝"
     Incorrect       = "Ups, netačna vrednost,"
     Incorrect2      = "unesite ponovo za "
@@ -39,8 +39,8 @@
     ModSpoti        = "Krpljenje Spotify-ja..."
     Error           = "Greška"
     FileLocBroken   = "Lokacija fajlova Spotify-ja je narušena, deinstalirajte klijent, pa pokrenite skriptu ponovo"
-    Spicetify       = "Detektovan je Spicetify koji mora biti instaliran nakon SpotX-a, otvori preporučene akcije u FAQ-u? [Y/N]"
-    NoRestore       = "SpotX je već bio instaliran, xpui.bak nije pronađen. `nMolimo deinstalirajte Spotify klijent i pokrenite Install.bat ponovo"
+    Spicetify       = "Detektovan je Spicetify koji mora biti instaliran nakon first-store-a, otvori preporučene akcije u FAQ-u? [Y/N]"
+    NoRestore       = "first-store je već bio instaliran, xpui.bak nije pronađen. `nMolimo deinstalirajte Spotify klijent i pokrenite Install.bat ponovo"
     InstallComplete = "instalacija završena"
     HostInfo        = "Neželjeni URL-ovi pronađeni u hosts fajlu"
     HostBak         = "Pravljenje rezervne kopije hosts.bak..."

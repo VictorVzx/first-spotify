@@ -1,7 +1,7 @@
 [PSCustomObject]@{
     Welcome         = "
 ╔═════════════════════════════╗
-║ Vítejte v SpotX pro Windows ║
+║ Vítejte v first-store pro Windows ║
 ╚═════════════════════════════╝"
     Incorrect       = "Ups, nesprávná hodnota,"
     Incorrect2      = "zadejte znovu přes "
@@ -39,8 +39,8 @@
     ModSpoti        = "Upravuji Spotify..."
     Error           = "Chyba"
     FileLocBroken   = "Umístění souborů Spotify je chybné, odinstalujte klienta Spotify a spusťte skript znovu"
-    Spicetify       = "Spicetify nalezeno, musí být nainstalováno po SpotX, otevřít doporučené akce ve FAQ? [Y/N]"
-    NoRestore       = "SpotX byl již nainstalován, xpui.bak se nenašlo. `nProsím odinstalujte klienta Spotify a spusťte Install.bat znovu"
+    Spicetify       = "Spicetify nalezeno, musí být nainstalováno po first-store, otevřít doporučené akce ve FAQ? [Y/N]"
+    NoRestore       = "first-store byl již nainstalován, xpui.bak se nenašlo. `nProsím odinstalujte klienta Spotify a spusťte Install.bat znovu"
     InstallComplete = "Instalace dokončena"
     HostInfo        = "Nechtěné URL adresy nalezeny v souboru hosts"
     HostBak         = "Zálohuji soubor hosts.bak..."
